@@ -4,4 +4,4 @@ proyecto para aprender github
 git clone <URL_del_repositorio>
 
 
-hello
+hellogit status
